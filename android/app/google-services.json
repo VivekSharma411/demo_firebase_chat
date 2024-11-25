@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488120048533",
+    "project_id": "fiebasechat-243fd",
+    "storage_bucket": "fiebasechat-243fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488120048533:android:67ef1b5a30dabc7e6cb49c",
+        "android_client_info": {
+          "package_name": "com.example.firebasechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvyeyem8Gc9aEreryjISL6-zkkSzrNsCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
